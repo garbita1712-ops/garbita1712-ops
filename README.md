@@ -30,9 +30,11 @@
 
 </div>
 
+<br />
+
 ---
 
-### Architecture Profile
+<h2 align="center">⚡ ARCHITECTURE PROFILE</h2>
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -46,9 +48,11 @@
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
+<br />
+
 ---
 
-### Interactive Skills & Technologies
+<h2 align="center">⚙️ INTERACTIVE TECH STACK</h2>
 
 <div align="center">
 
@@ -74,25 +78,41 @@
 
 </div>
 
+<br />
+
 ---
 
-### Contribution Snake Matrix Animation
+<h2 align="center">🗓️ ISOMETRIC COMMIT CALENDAR & STATS</h2>
 
 <div align="center">
-  <img src="github_contribution_snake.png" alt="Contribution Snake Matrix" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
+  <img src="isometric_commit_calendar_stats.png" alt="Isometric Commit Calendar & Telemetry" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
 </div>
+
+<br />
 
 ---
 
-### 3D Isometric Contribution Landscape
+<h2 align="center">🐍 CONTRIBUTION SNAKE MATRIX ANIMATION</h2>
+
+<div align="center" style="padding: 10px; background: rgba(13, 17, 23, 0.8); border-radius: 20px; box-shadow: inset 0 0 20px rgba(0, 240, 255, 0.15);">
+  <img src="github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" width="100%" style="border-radius: 14px;" />
+</div>
+
+<br />
+
+---
+
+<h2 align="center">💎 3D ISOMETRIC CONTRIBUTION LANDSCAPE</h2>
 
 <div align="center">
   <img src="3d_isometric_contributions.png" alt="3D Isometric Contribution Landscape" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
 </div>
 
+<br />
+
 ---
 
-### Live Profile Analytics & Streaks
+<h2 align="center">📊 REAL-TIME ANALYTICS & STREAKS</h2>
 
 <div align="center">
 
@@ -102,41 +122,78 @@
 
   <br />
 
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garbita1712-ops&theme=2077" width="410" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garbita1712-ops&theme=2077" width="100%" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=garbita1712-ops&theme=dark" width="410" alt="GitHub Streak" />
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com/?user=garbita1712-ops&theme=dark" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garbita1712-ops&theme=2077" width="410" alt="Repos Per Language" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garbita1712-ops&theme=2077" width="100%" alt="Repos Per Language" />
       </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garbita1712-ops&theme=2077" width="410" alt="Most Commit Language" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garbita1712-ops&theme=2077" width="100%" alt="Most Commit Language" />
       </td>
     </tr>
   </table>
 
 </div>
 
+<br />
+
 ---
 
-### Featured Production Projects
+<h2 align="center">🚀 FEATURED PRODUCTION PROJECTS</h2>
 
-| Project | Tech Stack | Highlight Feature | Link |
-| :--- | :--- | :--- | :---: |
-| **ShopTrend** | `Next.js 16` `MongoDB` `Cloudinary` | Full-stack E-Commerce storefront with auto Cloudinary image destruction and admin catalog management. | [Repo](https://github.com/garbita1712-ops/ShopTrend) |
-| **WeatherTrack** | `Next.js` `TypeScript` `Leaflet GIS` | Borderless GIS weather platform with live telemetry search, task tracking, and dynamic widgets. | [Repo](https://github.com/garbita1712-ops/WeatherTrack) |
-| **NER-SHIELD** | `FastAPI` `Flutter` `ISRO Telemetry` | SIH 2026 AI hazard prediction pipeline with real-time risk scoring and remote SMS fallback. | [Repo](https://github.com/garbita1712-ops) |
+<div align="center">
+
+  <table width="100%">
+    <tr>
+      <td width="33%" valign="top">
+        <h3 align="center">🛒 ShopTrend</h3>
+        <p align="center"><b>Next.js 16 E-Commerce Storefront</b></p>
+        <p>Full-stack catalog & admin portal with automated Cloudinary asset deletion, NextAuth sessions, and monochrome aesthetics.</p>
+        <p align="center">
+          <a href="https://github.com/garbita1712-ops/ShopTrend">
+            <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h3 align="center">🌤️ WeatherTrack</h3>
+        <p align="center"><b>GIS Weather & Task Platform</b></p>
+        <p>Map-centric, borderless weather utility dashboard with real-time location telemetry search, unit toggles, and task management.</p>
+        <p align="center">
+          <a href="https://github.com/garbita1712-ops/WeatherTrack">
+            <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h3 align="center">🏔️ NER-SHIELD</h3>
+        <p align="center"><b>AI Hazard & Landslide Monitoring</b></p>
+        <p>SIH 2026 early warning hazard prediction system integrating ISRO/Kaggle datasets, FastAPI ML scoring, and Flutter SMS fallback.</p>
+        <p align="center">
+          <a href="https://github.com/garbita1712-ops">
+            <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br />
 
 ---
 
