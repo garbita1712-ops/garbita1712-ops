@@ -76,6 +76,14 @@
 
 ---
 
+### Contribution Snake Matrix Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/garbita1712-ops/ShopTrend/main/public/github_contribution_snake.png" alt="Contribution Snake Matrix" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
+</div>
+
+---
+
 ### 3D Isometric Contribution Landscape
 
 <div align="center">
