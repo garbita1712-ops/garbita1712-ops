@@ -151,7 +151,21 @@
 
 ---
 
+<h2 align="center">ABOUT &amp; BIOGRAPHY</h2>
+
 <div align="center">
-  <p><i>"Simplicity and aesthetics are the prerequisites for software reliability."</i></p>
-  <p>Engineered with Cyberpunk Glassmorphism &amp; Neofetch Aesthetics by <b>Garbita Chowdhury</b></p>
+  <p align="center">
+    <b>🎓 B.Tech CSE Student &amp; Full-Stack Web Developer | 🏆 Winner, SIH Internal Hackathon | 🎯 WBJEE Rank 1102</b>
+  </p>
+  <br />
+  <p align="center" style="max-width: 850px; line-height: 1.6;">
+    Computer Science student at <b>Kalyani Govt. Engineering College (KGEC)</b> with expertise across Full-Stack Web development including <code>TypeScript</code>, <code>Next.js</code>, <code>NextAuth (JWT)</code>, <code>React</code>, <code>Docker</code>, <code>Tailwind CSS</code>, <code>MongoDB</code>, <code>Vercel</code>, <code>HTML5</code>, <code>Node.js</code>, and <code>Python</code>. Skilled in Graphic Designing, Video Editing, Generative AI, Problem Solving, and Public Speaking.
+  </p>
+  <br />
+  <p align="center">
+    <i>Signed &amp; Verified by</i><br />
+    <b>Garbita Chowdhury</b><br />
+    <code>Full-Stack Architect &amp; AI Systems Lead</code>
+  </p>
 </div>
+
