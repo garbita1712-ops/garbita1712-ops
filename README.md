@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- 3D Glassmorphism Logo Badge -->
-  <img src="garbita_glassmorphic_logo.png" alt="Garbita Glassmorphism Logo" width="160" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(0, 240, 255, 0.4);" />
+  <!-- Andrew6rant Style Dynamic Neofetch Terminal HUD -->
+  <a href="https://github.com/garbita1712-ops">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+      <img alt="Garbita Chowdhury's GitHub Profile README" src="light_mode.svg" width="100%" style="border-radius: 16px; box-shadow: 0 15px 35px rgba(0, 240, 255, 0.25);" />
+    </picture>
+  </a>
 
   <br /><br />
-
-  <!-- Animated Typing SVG Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2800&pause=800&color=79C0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=GARBITA+CHOWDHURY;Full-Stack+Architect+%26+AI%2FML+Engineer;Next.js+16+%7C+TypeScript+%7C+FastAPI+%7C+PyTorch" alt="Typing Banner" />
-
-  <br />
 
   <!-- Glassmorphic Badges -->
   <p align="center">
@@ -22,24 +22,6 @@
   </p>
 
 </div>
-
-<br />
-
----
-
-<h2 align="center">ARCHITECTURE PROFILE</h2>
-
-```yaml
-┌────────────────────────────────────────────────────────────────────────┐
-│                        GARBITA CHOWDHURY                               │
-│                [ Full-Stack & AI Systems Architect ]                    │
-├────────────────────────────────────────────────────────────────────────┤
-│    Core Stack    : Next.js 16 (Turbopack) | TypeScript | Python        │
-│    Intelligence  : PyTorch | Scikit-Learn | GIS Spatial Telemetry      │
-│    Infrastructure: MongoDB | Cloudinary CDN | Docker | Vercel          │
-│    UI Aesthetic  : Modern Glassmorphism & Cyberpunk Neon HUD          │
-└────────────────────────────────────────────────────────────────────────┘
-```
 
 <br />
 
@@ -172,5 +154,5 @@
 
 <div align="center">
   <p><i>"Simplicity and aesthetics are the prerequisites for software reliability."</i></p>
-  <p>Engineered with Cyberpunk Glassmorphism Aesthetics by <b>Garbita Chowdhury</b></p>
+  <p>Engineered with Cyberpunk Glassmorphism &amp; Neofetch Aesthetics by <b>Garbita Chowdhury</b></p>
 </div>

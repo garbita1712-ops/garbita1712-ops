@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Space Grotesk, Consolas, monospace" width="985px" height="530px" font-size="15px">
+<style>
+.key {fill: #79C0FF;}
+.value {fill: #A5D6FF;}
+.title {fill: #58A6FF; font-weight: bold;}
+.cc {fill: #485361;}
+.addColor {fill: #3FB950;}
+.delColor {fill: #F85149;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#0D1117" rx="16" stroke="#30363D" stroke-width="2"/>
+<text x="25" y="45" fill="#79C0FF">
+<tspan x="25" y="45">       ██████╗  █████╗ ██████╗ ██████╗ ████████╗██████╗ ██████╗ </tspan>
+<tspan x="25" y="65">      ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗</tspan>
+<tspan x="25" y="85">      ██║  ███╗███████║██████╔╝██████╔╝   ██║   ███████║██████╔╝</tspan>
+<tspan x="25" y="105">      ██║   ██║██╔══██║██╔══██╗██╔══██╗   ██║   ██╔══██║██╔══██╗</tspan>
+<tspan x="25" y="125">      ╚██████╔╝██║  ██║██║  ██║██████╔╝   ██║   ██║  ██║██║  ██║</tspan>
+<tspan x="25" y="145">       ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝</tspan>
+<tspan x="25" y="185" fill="#58A6FF">┌────────────────────────────────────────────────────────┐</tspan>
+<tspan x="25" y="210" fill="#79C0FF">│  GARBITA CHOWDHURY                                      │</tspan>
+<tspan x="25" y="235" fill="#C9D1D9">│  Full-Stack Architect &amp; AI/ML Systems Engineer          │</tspan>
+<tspan x="25" y="260" fill="#58A6FF">├────────────────────────────────────────────────────────┤</tspan>
+<tspan x="25" y="285" fill="#8B949E">│  ⚡ Next.js 16 (Turbopack) | TypeScript | Python        │</tspan>
+<tspan x="25" y="310" fill="#8B949E">│  🤖 PyTorch | Scikit-Learn | GIS Spatial Telemetry      │</tspan>
+<tspan x="25" y="335" fill="#8B949E">│  ☁️ MongoDB | Cloudinary CDN | Docker | Vercel          │</tspan>
+<tspan x="25" y="360" fill="#8B949E">│  💎 Cyberpunk Glassmorphism &amp; Modern Neofetch HUD       │</tspan>
+<tspan x="25" y="385" fill="#58A6FF">└────────────────────────────────────────────────────────┘</tspan>
+<tspan x="25" y="425" fill="#79C0FF">  🛒 ShopTrend      : Next.js 16 E-Commerce Storefront    </tspan>
+<tspan x="25" y="450" fill="#79C0FF">  🌤️ WeatherTrack   : GIS Telemetry Weather &amp; Tasking     </tspan>
+<tspan x="25" y="475" fill="#79C0FF">  🏔️ NER-SHIELD     : SIH 2026 AI Hazard Prediction ML    </tspan>
+</text>
+<text x="490" y="40" fill="#C9D1D9">
+<tspan x="490" y="40" class="title">garbita@chowdhury</tspan>
+<tspan x="490" y="55" fill="#30363D">───────────────────────────────────────────────────────────</tspan>
+<tspan x="490" y="80" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Linux (NixOS / Arch / Ubuntu)</tspan>
+<tspan x="490" y="105" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Full-Stack Architect &amp; AI Engineer</tspan>
+<tspan x="490" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">VSCode, Neovim, IntelliJ</tspan>
+<tspan x="490" y="155" class="cc">. </tspan>
+<tspan x="490" y="180" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Next.js 16, React 19, FastAPI, Flutter</tspan>
+<tspan x="490" y="205" class="cc">. </tspan><tspan class="key">Languages.Code</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">TypeScript, JavaScript, Python, C++</tspan>
+<tspan x="490" y="230" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML5, CSS3, JSON, YAML, SQL</tspan>
+<tspan x="490" y="255" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">MongoDB, PostgreSQL, Redis</tspan>
+<tspan x="490" y="280" class="cc">. </tspan><tspan class="key">AI &amp; ML Stack</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">PyTorch, Scikit-Learn, Pandas, NumPy</tspan>
+<tspan x="490" y="305" class="cc">. </tspan>
+<tspan x="490" y="330" class="title">Contact</tspan>
+<tspan x="490" y="345" fill="#30363D">───────────────────────────────────────────────────────────</tspan>
+<tspan x="490" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">garbita.chowdhury.arcade25@gmail.com</tspan>
+<tspan x="490" y="395" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">garbita1712-ops</tspan>
+<tspan x="490" y="420" class="cc">. </tspan>
+<tspan x="490" y="445" class="title">GitHub Telemetry</tspan>
+<tspan x="490" y="460" fill="#30363D">───────────────────────────────────────────────────────────</tspan>
+<tspan x="490" y="485" class="cc">. </tspan><tspan class="key">Repositories</tspan>:<tspan class="cc"> . </tspan><tspan class="value">5 Public Repos</tspan> | <tspan class="key">Commits</tspan>:<tspan class="cc"> </tspan><tspan class="value">47 Total</tspan>
+<tspan x="490" y="505" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">124,890</tspan> ( <tspan class="addColor">142,500++</tspan>, <tspan class="delColor">17,610--</tspan> )
+</text>
+</svg>
