@@ -2,9 +2,9 @@
 
   <!-- Dynamic Neofetch Terminal HUD -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/light_mode.svg">
-    <img alt="Garbita Chowdhury GitHub Profile" src="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/dark_mode.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Garbita Chowdhury GitHub Profile" src="dark_mode.svg" width="100%" />
   </picture>
 
   <br /><br />
@@ -59,7 +59,7 @@
 <h2 align="center">CONTRIBUTION SNAKE MATRIX ANIMATION</h2>
 
 <div align="center" style="padding: 10px; background: rgba(13, 17, 23, 0.8); border-radius: 20px; box-shadow: inset 0 0 20px rgba(0, 240, 255, 0.15);">
-  <img src="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" width="100%" style="border-radius: 14px;" />
+  <img src="github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" width="100%" style="border-radius: 14px;" />
 </div>
 
 <br />
