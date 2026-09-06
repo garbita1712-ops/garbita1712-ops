@@ -104,50 +104,7 @@
 
 <br />
 
----
 
-<h2 align="center">FEATURED PRODUCTION PROJECTS</h2>
-
-<div align="center">
-
-  <table width="100%">
-    <tr>
-      <td width="33%" valign="top">
-        <h3 align="center">ShopTrend</h3>
-        <p align="center"><b>Next.js 16 E-Commerce Storefront</b></p>
-        <p>Full-stack catalog & admin portal with automated Cloudinary asset deletion, NextAuth sessions, and monochrome aesthetics.</p>
-        <p align="center">
-          <a href="https://github.com/garbita1712-ops/ShopTrend">
-            <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center">WeatherTrack</h3>
-        <p align="center"><b>GIS Weather & Task Platform</b></p>
-        <p>Map-centric, borderless weather utility dashboard with real-time location telemetry search, unit toggles, and task management.</p>
-        <p align="center">
-          <a href="https://github.com/garbita1712-ops/WeatherTrack">
-            <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center">NER-SHIELD</h3>
-        <p align="center"><b>AI Hazard & Landslide Monitoring</b></p>
-        <p>SIH 2026 early warning hazard prediction system integrating ISRO/Kaggle datasets, FastAPI ML scoring, and Flutter SMS fallback.</p>
-        <p align="center">
-          <a href="https://github.com/garbita1712-ops">
-            <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br />
 
 ---
 
@@ -155,17 +112,20 @@
 
 <div align="center">
   <p align="center">
-    <b>🎓 B.Tech CSE Student &amp; Full-Stack Web Developer | 🏆 Winner, SIH Internal Hackathon | 🎯 WBJEE Rank 1102</b>
+    <b>B.Tech CSE Student &amp; Full-Stack Web Developer | Winner, SIH Internal Hackathon | WBJEE Rank 1102</b>
   </p>
   <br />
-  <p align="center" style="max-width: 850px; line-height: 1.6;">
+  <p align="center" style="max-width: 880px; line-height: 1.7; font-size: 15px;">
     Computer Science student at <b>Kalyani Govt. Engineering College (KGEC)</b> with expertise across Full-Stack Web development including <code>TypeScript</code>, <code>Next.js</code>, <code>NextAuth (JWT)</code>, <code>React</code>, <code>Docker</code>, <code>Tailwind CSS</code>, <code>MongoDB</code>, <code>Vercel</code>, <code>HTML5</code>, <code>Node.js</code>, and <code>Python</code>. Skilled in Graphic Designing, Video Editing, Generative AI, Problem Solving, and Public Speaking.
   </p>
   <br />
-  <p align="center">
-    <i>Signed &amp; Verified by</i><br />
-    <b>Garbita Chowdhury</b><br />
-    <code>Full-Stack Architect &amp; AI Systems Lead</code>
-  </p>
+
+  <!-- Big Handwritten Cursive Signature -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="signature_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="signature_light.svg">
+    <img alt="Garbita Chowdhury Signature" src="signature_dark.svg" width="600" />
+  </picture>
 </div>
+
 

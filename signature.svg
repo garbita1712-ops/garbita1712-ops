@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="120" viewBox="0 0 500 120">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&amp;family=Dancing+Script:wght@700&amp;display=swap');
+    .signature {{
+      font-family: 'Great Vibes', 'Dancing Script', 'Brush Script MT', cursive;
+      font-size: 64px;
+      fill: #79c0ff;
+      text-anchor: middle;
+      filter: drop-shadow(0px 0px 8px rgba(121, 192, 255, 0.6));
+    }}
+    .title {{
+      font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+      font-size: 13px;
+      fill: #8b949e;
+      letter-spacing: 3px;
+      text-anchor: middle;
+    }}
+  </style>
+  <text x="250" y="65" class="signature">Garbita Chowdhury</text>
+  <text x="250" y="100" class="title">FULL-STACK ARCHITECT &amp; AI SYSTEMS LEAD</text>
+</svg>
