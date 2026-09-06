@@ -13,7 +13,7 @@
   <br /><br />
 
   <!-- Animated Typing SVG Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2800&pause=800&color=79C0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+GARBITA+CHOWDHURY;🚀+Full-Stack+Architect+%26+AI%2FML+Engineer;⚡+Building+Next.js+16+%7C+FastAPI+%7C+PyTorch" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2800&pause=800&color=79C0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=GARBITA+CHOWDHURY;Full-Stack+Architect+%26+AI%2FML+Engineer;Next.js+16+%7C+TypeScript+%7C+FastAPI+%7C+PyTorch" alt="Typing Banner" />
 
   <br />
 
@@ -32,23 +32,23 @@
 
 ---
 
-### 🔮 Architecture Profile
+### Architecture Profile
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        GARBITA CHOWDHURY                               │
 │                [ Full-Stack & AI Systems Architect ]                    │
 ├────────────────────────────────────────────────────────────────────────┤
-│  ⚡ Core Stack   : Next.js 16 (Turbopack) | TypeScript | Python        │
-│  🤖 Intelligence : PyTorch | Scikit-Learn | GIS Spatial Telemetry      │
-│  ☁️ Infrastructure: MongoDB | Cloudinary CDN | Docker | Vercel          │
-│  💎 UI Aesthetic  : Modern Glassmorphism & Cyberpunk Neon HUD          │
+│    Core Stack    : Next.js 16 (Turbopack) | TypeScript | Python        │
+│    Intelligence  : PyTorch | Scikit-Learn | GIS Spatial Telemetry      │
+│    Infrastructure: MongoDB | Cloudinary CDN | Docker | Vercel          │
+│    UI Aesthetic  : Modern Glassmorphism & Cyberpunk Neon HUD          │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### ⚙️ Interactive Skills & Technologies
+### Interactive Skills & Technologies
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 🗓️ 3D Isometric Contribution Landscape
+### 3D Isometric Contribution Landscape
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/garbita1712-ops/ShopTrend/main/public/3d_isometric_contributions.png" alt="3D Isometric Contribution Landscape" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
@@ -84,7 +84,7 @@
 
 ---
 
-### 📊 Live Profile Analytics & Streaks
+### Live Profile Analytics & Streaks
 
 <div align="center">
 
@@ -122,17 +122,17 @@
 
 ---
 
-### 🚀 Featured Production Projects
+### Featured Production Projects
 
 | Project | Tech Stack | Highlight Feature | Link |
 | :--- | :--- | :--- | :---: |
-| 🛒 **ShopTrend** | `Next.js 16` `MongoDB` `Cloudinary` | Full-stack E-Commerce storefront with auto Cloudinary image destruction and admin catalog management. | [Repo](https://github.com/garbita1712-ops/ShopTrend) |
-| 🌤️ **WeatherTrack** | `Next.js` `TypeScript` `Leaflet GIS` | Borderless GIS weather platform with live telemetry search, task tracking, and dynamic widgets. | [Repo](https://github.com/garbita1712-ops/WeatherTrack) |
-| 🏔️ **NER-SHIELD** | `FastAPI` `Flutter` `ISRO Telemetry` | SIH 2026 AI hazard prediction pipeline with real-time risk scoring and remote SMS fallback. | [Repo](https://github.com/garbita1712-ops) |
+| **ShopTrend** | `Next.js 16` `MongoDB` `Cloudinary` | Full-stack E-Commerce storefront with auto Cloudinary image destruction and admin catalog management. | [Repo](https://github.com/garbita1712-ops/ShopTrend) |
+| **WeatherTrack** | `Next.js` `TypeScript` `Leaflet GIS` | Borderless GIS weather platform with live telemetry search, task tracking, and dynamic widgets. | [Repo](https://github.com/garbita1712-ops/WeatherTrack) |
+| **NER-SHIELD** | `FastAPI` `Flutter` `ISRO Telemetry` | SIH 2026 AI hazard prediction pipeline with real-time risk scoring and remote SMS fallback. | [Repo](https://github.com/garbita1712-ops) |
 
 ---
 
 <div align="center">
   <p><i>"Simplicity and aesthetics are the prerequisites for software reliability."</i></p>
-  <p>✨ Engineered with Ultra-Modern Cyberpunk Aesthetics by <b>Garbita Chowdhury</b></p>
+  <p>Engineered with Cyberpunk Glassmorphism Aesthetics by <b>Garbita Chowdhury</b></p>
 </div>
