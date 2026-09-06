@@ -2,13 +2,13 @@
 
   <!-- Anime Cyberpunk Developer Background Banner -->
   <a href="https://github.com/garbita1712-ops">
-    <img src="https://raw.githubusercontent.com/garbita1712-ops/ShopTrend/main/public/anime_cyberpunk_banner.png" alt="Garbita Anime Cyberpunk Developer Banner" width="100%" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0, 240, 255, 0.3);" />
+    <img src="anime_cyberpunk_banner.png" alt="Garbita Anime Cyberpunk Developer Banner" width="100%" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0, 240, 255, 0.3);" />
   </a>
 
   <br /><br />
 
   <!-- 3D Glassmorphism Logo Badge -->
-  <img src="https://raw.githubusercontent.com/garbita1712-ops/ShopTrend/main/public/garbita_glassmorphic_logo.png" alt="Garbita Glassmorphism Logo" width="180" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(0, 240, 255, 0.4);" />
+  <img src="garbita_glassmorphic_logo.png" alt="Garbita Glassmorphism Logo" width="180" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(0, 240, 255, 0.4);" />
 
   <br /><br />
 
@@ -79,7 +79,7 @@
 ### Contribution Snake Matrix Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/garbita1712-ops/ShopTrend/main/public/github_contribution_snake.png" alt="Contribution Snake Matrix" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
+  <img src="github_contribution_snake.png" alt="Contribution Snake Matrix" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
 </div>
 
 ---
@@ -87,7 +87,7 @@
 ### 3D Isometric Contribution Landscape
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/garbita1712-ops/ShopTrend/main/public/3d_isometric_contributions.png" alt="3D Isometric Contribution Landscape" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
+  <img src="3d_isometric_contributions.png" alt="3D Isometric Contribution Landscape" width="100%" style="border-radius: 18px; box-shadow: 0 10px 30px rgba(0, 255, 150, 0.25);" />
 </div>
 
 ---
