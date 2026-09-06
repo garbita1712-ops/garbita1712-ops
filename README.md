@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- Neofetch Terminal HUD -->
-  <a href="https://github.com/garbita1712-ops">
-    <img src="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/dark_mode.svg" alt="Garbita Chowdhury GitHub Profile" width="100%" />
-  </a>
+  <!-- Dynamic Neofetch Terminal HUD -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/light_mode.svg">
+    <img alt="Garbita Chowdhury GitHub Profile" src="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/main/dark_mode.svg" width="100%" />
+  </picture>
 
   <br /><br />
 
