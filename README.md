@@ -60,9 +60,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Matrix" src="github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/output/github-snake.svg">
+    <img alt="Contribution Snake Matrix" src="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
