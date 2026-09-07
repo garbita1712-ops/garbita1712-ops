@@ -60,9 +60,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-    <img alt="Contribution Snake Matrix" src="github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.gif">
+    <img alt="Contribution Snake Matrix" src="github-snake-dark.gif" width="100%" />
   </picture>
 </div>
 
