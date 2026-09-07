@@ -58,8 +58,12 @@
 
 <h2 align="center">CONTRIBUTION SNAKE MATRIX ANIMATION</h2>
 
-<div align="center" style="padding: 10px; background: rgba(13, 17, 23, 0.8); border-radius: 20px; box-shadow: inset 0 0 20px rgba(0, 240, 255, 0.15);">
-  <img src="github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" width="100%" style="border-radius: 14px;" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Matrix" src="github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br />
