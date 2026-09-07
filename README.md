@@ -60,8 +60,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garbita1712-ops/garbita1712-ops/output/github-snake.svg">
     <img alt="Contribution Snake Matrix" src="github-snake-dark.gif" width="100%" />
   </picture>
 </div>
